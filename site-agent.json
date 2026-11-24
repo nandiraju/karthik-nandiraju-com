@@ -1,0 +1,23 @@
+{
+  "$comment": "Managed by Site Launch Agent (static HTML site). Add file paths to \"preserve\" to stop the agent from overwriting them on future runs.",
+  "domain": "karthik.nandiraju.com",
+  "siteName": "Karthik Nandiraju",
+  "siteType": "static",
+  "preserve": [],
+  "generatedFiles": [
+    "styles.css",
+    "index.html",
+    ".github/workflows/deploy.yml",
+    ".gitignore",
+    ".nojekyll",
+    "CNAME",
+    "sitemap.xml",
+    "robots.txt",
+    "llms.txt",
+    "AGENTS.md",
+    "images/*",
+    "favicon*",
+    "apple-touch-icon.png"
+  ],
+  "updatedAt": "2026-11-24T11:35:51.383Z"
+}
